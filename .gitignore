@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# JetBrains (PyCharm)
+.idea/
+*.iml
+
+# Virtualenv configurations
+venv/
+env/
+.venv/
+.env
+
+# Operating systems
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Build
+build/
+dist/
+
+# Logs
+*.log
+debug.txt
+
+# Playlist
+playlist.json
