@@ -16,7 +16,6 @@ FILE_OVERRIDES = {
     "England": "england",
 }
 
-
 def get_ip_from_url(url):
     try:
         clean_url = url.replace("rtsp://", "")
