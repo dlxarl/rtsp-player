@@ -23,6 +23,5 @@ class PlaylistManager:
 
             clean_streams.append(stream_copy)
 
-        # Записуємо тільки текстові дані
         with open(self.filename, "w") as f:
             json.dump(clean_streams, f, indent=4)
