@@ -1,5 +1,7 @@
 # RTSP Stream Player
 
+<img width="1280" height="748" alt="rtsp-player" src="https://github.com/user-attachments/assets/4a122b7b-66ad-4bc1-ae7c-60424c805114" />
+
 A modular, lightweight desktop application for playing RTSP video streams. Built using Python, Tkinter (GUI), and OpenCV (Video Decoding). The application supports playlist management, country flag detection based on IP, stream reordering, and connection status monitoring.
 
 ## Features
